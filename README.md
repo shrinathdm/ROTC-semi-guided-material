@@ -6,6 +6,18 @@ ROTC is a 2-day hands-on, semi-guided workshop, with an additional four-hour ROT
 
 [Final Assignment](https://github.com/twlabs/ROTC-semi-guided-material/tree/main/final_assignment)
 
+Kubernetes configuration that includes deployments, services, secrets, and persistent storage
+
+k8s/
+├── namespace.yaml
+├── secret.yaml
+├── postgres-deployment.yaml
+├── postgres-service.yaml
+├── backend-deployment.yaml
+├── backend-service.yaml
+├── persistent-volume.yaml
+├── persistent-volume-claim.yaml
+
 ## Additional Resources
 
 
